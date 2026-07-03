@@ -1,0 +1,19 @@
+{
+    "source_folder": "C:/Users/Pratham/Documents",
+    "target_folder": "C:/Users/Pratham/Sorted_Files",
+    "backup_enabled": false,
+    "backup_folder": "C:/Users/Pratham/Backups",
+    "delete_duplicates": true,
+    "sort_by_date": true,
+    "watch_recursive": true,
+    "debounce_delay": 1.5,
+    "ignore_patterns": [".tmp", ".crdownload"],
+    "file_types": {
+        "Images": [".jpg", ".jpeg", ".png", ".gif", ".webp", ".bmp"],
+        "Videos": [".mp4", ".mkv", ".mov", ".avi", ".webm"],
+        "Documents": [".pdf", ".docx", ".doc", ".xlsx", ".xls", ".pptx", ".txt"],
+        "Code": [".py", ".js", ".html", ".css", ".java", ".cpp", ".c", ".go"],
+        "Archives": [".zip", ".rar", ".7z", ".tar", ".gz"],
+        "Audio": [".mp3", ".wav", ".ogg", ".m4a"]
+    }
+}

@@ -1,0 +1,7 @@
+
+Pillow==12.2.0
+mutagen==1.48.0
+watchdog==6.0.0
+requests==2.32.3
+tqdm==4.67.1
+pyinstaller==6.21.0
