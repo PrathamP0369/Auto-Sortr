@@ -147,3 +147,5 @@ def find_and_delete_duplicates(folder_path):
                     pass
 
     return deleted_count
+
+    
